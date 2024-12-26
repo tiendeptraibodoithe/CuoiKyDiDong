@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Phim Meme</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_favorite">Yêu thích</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="featured_movies">Phim nổi bật</string>
+    <string name="new_movies">Phim mới</string>
+    <string name="all_movies">Tất cả phim</string>
+
+    <string name="movie_hint">Tên phim…</string>
+    <string name="waiting_message">Vui lòng chờ…</string>
+
+    // action
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Thoát</string>
+
+    <string name="hint_email">Email…</string>
+    <string name="hint_password">Mật khẩu…</string>
+    <string name="hint_password_old">Mật khẩu cũ…</string>
+    <string name="hint_password_new">Mật khẩu mới…</string>
+    <string name="hint_password_confirm">Xác nhận mật khẩu mới…</string>
+
+    <string name="sign_up">Đăng ký</string>
+    <string name="have_account">Đã có tài khoản?</string>
+    <string name="have_not_account">Chưa có tài khoản?</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="change_password">Thay đổi mật khẩu</string>
+    <string name="sign_out">Đăng xuất</string>
+    <string name="reset_password">Cài lại mât khẩu</string>
+
+    <string name="msg_get_date_error">Lỗi, vui lòng thử lại sau</string>
+    <string name="msg_exit_app">Bạn có chắc chắn muốn thoát không?</string>
+    <string name="msg_waiting_message">Vui lòng chờ…</string>
+
+    <string name="msg_email_require">Vui lòng nhập email của bạn</string>
+    <string name="msg_password_require">Vui lòng nhập mật khẩu của bạn</string>
+    <string name="msg_email_invalid">Email của bạn không hợp lệ</string>
+
+    <string name="msg_old_password_require">Vui lòng nhập mật khẩu cũ</string>
+    <string name="msg_new_password_require">Vui lòng nhập mật khẩu mới</string>
+    <string name="msg_confirm_password_require">Vui lòng xác nhận mật khẩu mới</string>
+    <string name="msg_old_password_invalid">Mật khẩu cũ không đúng</string>
+    <string name="msg_confirm_password_invalid">Xác nhận mật khẩu mới không khớp</string>
+    <string name="msg_new_password_invalid">Mật khẩu mới giống với mật khẩu cũ</string>
+
+    <string name="msg_change_password_successfully">Đổi mật khẩu thành công</string>
+    <string name="msg_reset_password_successfully">Đặt lại mật khẩu thành công, vui lòng kiểm tra email của bạn</string>
+
+    <string name="msg_sign_up_error">Đăng ký không thành công, vui lòng thử lại</string>
+    <string name="msg_sign_in_error">Đăng nhập không thành công, vui lòng thử lại</string>
+</resources>
